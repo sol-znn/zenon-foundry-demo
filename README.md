@@ -1,7 +1,7 @@
 # Foundry demo
 
 A static demo of Foundry, a bounty board over GitHub for Zenon work:
-https://sol-znn.github.io/zenon-foundry-demo/
+https://foundry-demo.zenon.foo/
 
 Everything on it is simulated. There is no board behind the page: every figure,
 person, task and payout comes from a snapshot of a development instance, under
